@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "run": "deno run -A main.js",
+    "example": "deno run -A main.js 'hello world'"
+  }
+}
